@@ -1,0 +1,12 @@
+body{
+	margin: 0 ;
+}
+header{
+	background: green; padding: 3%; text-align: center;
+}
+header h2{
+	margin: 0;
+}
+section{
+	padding: 3%; background: red;
+}
